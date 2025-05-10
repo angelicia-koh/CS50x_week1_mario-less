@@ -2,9 +2,9 @@
 
 This is part of Harvard's free online course, CS50x.
 
-Projec:
-create a pyramid based on user's requested hight.
+Project:
+create a pyramid based on the user's requested height.
 
-The pseudocode goven by CS50x to help with coding:
+The pseudocode given by CS50x to help with coding:
 1. Prompt the user for the pyramid’s height
 2. Print a pyramid of that height
